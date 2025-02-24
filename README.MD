@@ -3,6 +3,7 @@
 - [ ] [Mastering Micro Frontends: 9 Patterns Every Developer Should Know](https://blog.bitsrc.io/mastering-microfrontends-9-patterns-every-developer-should-know-397081673770)
 - [ ] [Data Fetching with Server Actions in Next.js](https://www.robinwieruch.de/next-server-actions-fetch-data/?ref=dailydev)
 - [ ] [Understand Error Handling in Modern Next.js](https://www.telerik.com/blogs/understand-error-handling-modern-next-js?ref=dailydev)
+- [ ] [8 Most Important System Design Concepts You Should Know](https://www.youtube.com/watch?v=BTjxUS_PylA)
 
 ### Read / Watched
 
