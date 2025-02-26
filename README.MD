@@ -11,3 +11,4 @@
 - [x] [Session Vs JWT: The Differences You May Not Know!](https://www.youtube.com/watch?v=fyTxwIa-1U0)
 - [x] [I'm Ditching Try/Catch for Good!](https://www.youtube.com/watch?v=AdmGHwvgaVs)
 - [x] [Jr Devs - "I Can't Code Anymore"](https://www.youtube.com/watch?v=1Se2zTlXDwY)
+- [x] [Claude 3.7 goes hard for programmers…](https://www.youtube.com/watch?v=x2WtHZciC74)
